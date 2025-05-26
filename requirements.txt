@@ -1,0 +1,7 @@
+1. Python 3.7+
+2. pandas
+3. numpy
+4. matplotlib
+5. seaborn
+6. scikit-learn
+7. jupyter
